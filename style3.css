@@ -1,0 +1,30 @@
+.code{
+    background-image: url(
+        https://media.istockphoto.com/id/2127223378/photo/a-bright-wide-format-background-image-on-the-theme-of-summer-holidays-on-the-islands.jpg?s=612x612&w=is&k=20&c=19oU_fwbVIpDYbx6tFNhZnVXmwKeLdNW4ywmwMj-LMc=
+    );
+ height: 100vh;
+ background-size: cover;
+ text-align: center;
+}
+.main-heading{
+    font-family: "roboto";
+    font-style: italic;
+    font-weight: bold;
+
+
+}
+.eee{
+    height: 200px;
+    width: 100vW;
+    background-color: aliceblue; 
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    
+}
+.button3{
+    height: 50px;
+    width: 100px;
+    background-color: chartreuse;
+    border-radius: 25px;
+    
+}
